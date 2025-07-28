@@ -1,0 +1,22 @@
+x=10
+y=3.14
+z="kavin"
+is_on=True
+num=[1,2,3,4,5]
+t=(1,2)
+s={1,2}
+d={"a": 1,"b": 2}
+print(x)
+print(y)
+print(z)
+print(is_on)
+print(num)
+print(t)
+print(s)
+print(d)
+a=str(10)
+print(type(d))
+print(type(t))
+print(type(s))
+print(type(num))
+print(type(a))
